@@ -29,7 +29,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Piyush%20Aggarwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-aggarwal-602673326/)
 
-[![Resume](https://img.shields.io/badge/Resume-PDF-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1mXA8jFS9kXqF3f1Di7zKceVL6tV2-82k/view)
+[![Resume](https://img.shields.io/badge/Resume-PDF-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/17i-bs_kUjAXCuYlHkNhoDNO0pKLEhVDr/view?usp=sharing)
 
 [![Email](https://img.shields.io/badge/Email-piyushaggarwal220376%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushaggarwal220376@gmail.com)
 

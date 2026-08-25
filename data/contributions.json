@@ -1,22 +1,22 @@
 {
   "username": "piyush220376",
-  "generated_at": "2026-08-24T07:19:39Z",
+  "generated_at": "2026-08-25T07:07:51Z",
   "range": {
     "start": "2025-08-24",
+    "end": "2026-08-25"
+  },
+  "total_contributions": 284,
+  "active_days": 67,
+  "avg_per_active_day": 4.2,
+  "current_streak": {
+    "length": 37,
+    "start": "2026-07-19",
     "end": "2026-08-24"
   },
-  "total_contributions": 283,
-  "active_days": 66,
-  "avg_per_active_day": 4.3,
-  "current_streak": {
-    "length": 36,
-    "start": "2026-07-19",
-    "end": "2026-08-23"
-  },
   "longest_streak": {
-    "length": 36,
+    "length": 37,
     "start": "2026-07-19",
-    "end": "2026-08-23"
+    "end": "2026-08-24"
   },
   "best_day": {
     "date": "2026-07-19",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-08",
-      "total": 47
+      "total": 48
     }
   ],
   "days": [
@@ -1539,6 +1539,10 @@
     },
     {
       "date": "2026-08-24",
+      "count": 1
+    },
+    {
+      "date": "2026-08-25",
       "count": 0
     }
   ]
